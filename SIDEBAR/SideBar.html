@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="Joel/css/bootstrap.min.css">
+	
+	<!--Style-->
+	<link rel="stylesheet" href="Style/simple-sidebar.css">
+	
+  </head>
+  
+	<body>
+		<div id="wrapper">
+
+			<!-- Sidebar -->
+			<div id="sidebar-wrapper">
+				<ul class="sidebar-nav">
+					<div class="logo_container">
+						<img class="image_logo" src="Images/logo.jpg"/>
+						<div class="title">Everyday Fit App</div>
+					</div>
+					<br><br><br><br><br><br><br><br><br>
+					<li>
+						<a href="Index.html">Training Plans</a>
+					</li>
+					<li>
+						<a href="Remider 3.html">Reminder</a>
+					</li>
+					<li>
+						<a href="#">Restart Progress</a>
+					</li>
+						
+				</ul>
+			</div>
+			<!-- /#sidebar-wrapper -->
+
+			<!-- Page Content -->
+			<div id="page-content-wrapper">
+				<div class="container-fluid" > 
+					
+					<a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">
+					<span></span>
+					
+					<span></span>
+					<span></span>
+					</a>
+					
+				</div>
+			</div>
+			<!-- /#page-content-wrapper -->
+
+		</div>
+		<!-- /#wrapper -->
+
+		<!-- Bootstrap core JavaScript -->
+		<script src="Menu/jquery/jquery.min.js"></script>
+		<script src="Menu/bootstrap/js/bootstrap.bundle.min.js"></script>
+		
+
+		<!-- Menu Toggle Script -->
+		<script>
+		$("#menu-toggle").click(function(e) {
+			e.preventDefault();
+			$("#wrapper").toggleClass("toggled");
+		});
+		</script>
