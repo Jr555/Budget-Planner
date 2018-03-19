@@ -3,7 +3,7 @@
  
    * Creating a budgeting process is the most effective way to keep your finances on track.
  * A good personal finance budget planner should allow you to do 2 things: plan your days and your 
- money in the same place. * When budgeting with the Personal Finance Budget planner,both setting monthly goals that you can 
+ money in the same place.  * When budgeting with the Personal Finance Budget planner,both setting monthly goals that you can 
  see and scheduling your bills each month are really important.This is because goals(especialy 
  financial ones) and being intentional about paying your bills are related.
  * When we are intentional with one area in our lives,it will spill over into other areas as well.
