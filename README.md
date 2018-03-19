@@ -1,7 +1,7 @@
 # BUDGET PLANNER
 
  
-   Creating a budgeting process is the most effective way to keep your finances on track.
+   * Creating a budgeting process is the most effective way to keep your finances on track.
  A good personal finance budget planner should allow you to do 2 things: plan your days and your 
  money in the same place.
    When budgeting with the Personal Finance Budget planner,both setting monthly goals that you can 
