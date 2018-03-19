@@ -1,5 +1,5 @@
-                                                           BUDGET PLANNER
-                                                      (INFORMATION/DESCRIPTION)
+    BUDGET PLANNER
+
      
         Started sitting down for a monthly Budget ,it didn't take us long to realize something.
      Creating a budgeting process is the most effective way to kwwp your finances on track.
